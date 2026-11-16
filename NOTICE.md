@@ -4,4 +4,4 @@ Pixelfehler-Jagd ist ein Community-Spiel für Nutzer mit eigener, rechtmäßiger
 
 ## Mit KI erstellt
 
-Spiel und Dokumentation wurden **mit KI erstellt** (u. a. Grok Bot / Cursor-Agenten), begleitet und getestet von Valentin und Johannes Möller.
+Spiel und Dokumentation wurden **mit KI erstellt** (u. a. Grok Bot / Cursor-Agenten) und als Community-/Hobby-Projekt veröffentlicht.
